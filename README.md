@@ -1,5 +1,5 @@
 # Texas-Hunger-Initiative
-We designed and implemented SQL database schema, creating an DFD/ERD for data flow visualization, data dictionary, and DDL scripts to improve data tracking for state-sponsored meal programs Developed an Excel-based dashboard to interpret KPIs, enabling trend identification and opportunities for efficiency enhancement in summer feeding outreach.
+We designed and implemented SQL database schema, creating an DFD/ERD for data flow visualization, data dictionary, and DDL scripts to improve data tracking for state-sponsored meal programs. We also developed an Excel-based dashboard to interpret KPIs, enabling trend identification and opportunities for efficiency enhancement in summer feeding outreach.
 
 This team assignment is an opportunity to practice database skills covered in class. You'll design a database for a nonprofit organization, focusing on a scenario provided. The project is split into two parts, with due dates specified on the class schedule.
 
